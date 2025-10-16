@@ -8,7 +8,7 @@ forthcoming
 
 # Reproduce Analysis
 
-We ran the analysis with Python 3.12.9. Optionally create a virtual environment for example with
+We ran the analysis with Python 3.12.9. Optionally create a virtual environment, for example, with
 ```
 conda create -n xai-questions python=3.12.9
 conda activate xai-questions
@@ -18,7 +18,9 @@ To then install the necessary packages, run:
 ```
 pip install -r requirements.txt
 ```
-Afterwards, you can run our analysis via the Jupyter Notebook analysis.ipynb
+Afterwards, you can run our analysis via the Jupyter Notebook [analysis.ipynb](https://github.com/lwachowiak/xai-questions-dataset/blob/main/analysis.ipynb).
+
+To explore the dataset yourself, check out the file [dataset.csv](https://github.com/lwachowiak/xai-questions-dataset/blob/main/data/dataset.csv).
 
 # Abstract
 With the increased use of large language models and conversational interfaces in human–robot interaction, robots' ability to answer user questions is more important than ever.
