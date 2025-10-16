@@ -1,0 +1,99 @@
+Stimulus;Q_ID;Question;Q_Importance;Participant_ID;Group (Annotator-1);Subgroup;Annotator-2
+plan3;Q3;Are you able to bring the recycling bin out to the curb on the date it is supposed to be picked up?;3.0;R_1qZd0OdDkqtx7Pj;what-abilities;extra-ability;what-abilities
+vid13;Q1;How long did you wait until pouring the tea as it didn't look like it had stood there long enough.;2.0;R_2OjBS1e8DUXpD1S;time;how-long;time
+Vid2;Q3;How long will the task take?;4.0;R_2SH4lt3FWf5MtSp;time;how-long;time
+Vid2;Q1;Why did you pack the orange instead of a another fruit?;5.0;R_6ALntt8JbKZguNd;why;why-not-alternative;why
+vid9;Q3;How do you know how to fold the shirt in the correct way?;4.0;R_2y0X8tivOMyZvKy;how-did-you-know;steps-to-take;how-did-you-know
+vid10;Q2;How long does this task take you?;4.0;R_2y0X8tivOMyZvKy;time;how-long;time
+plan1;Q2;Was your battery low prior to returning to the charging station;3.0;R_8aY3lQuJu3gZP7e;technical-details;battery-status;technical-details
+Vid1;Q4;Don't we need salad dressing?;3.0;R_2ROLkn5dyU92blU;mental-state;check-understanding/beliefs;self/task-assessment
+vid11;Q2;Did the cat eat all of its food?;4.0;R_6ozSMtOx9GulNFI;environment-state;pets;environment-state
+vid15;Q2;What did you season the chicken with?;2.0;R_22omduvgKLeuX89;execution-details;what-objects;execution-details
+vid12;Q2;Do you see what you are doing?;3.0;R_22KVSX5FFfCsOu9;technical-details;how-does-it-work;technical-details
+plan5;Q3;How did you decide what tasks you would do today? ;4.0;R_31hTKmGvBd5emgZ;how-did-you-decide;task-priority;how-did-you-decide
+Vid3;Q3;What items I need to stock up in your opinion?;3.0;R_2BnicD802ALgCFk;future-actions;what-needs-to-be-done;future-actions
+vid11;Q3;Where is the cat?;5.0;R_2qebcIGVbURSLgY;environment-state;pets;environment-state
+vid10;Q3;What factors do you take into consideration when performing your tasks?;4.0;R_2dvdoUcNnhE1r5z;how-did-you-decide;steps-to-take;technical-details
+plan2;Q3;How did you decide how many tasks you can do today?;4.0;R_6ALntt8JbKZguNd;how-did-you-decide;goal-properties;how-did-you-decide
+plan6;Q3;What else did you do today?;2.0;R_60Z4Qz1SF2Edyv9;execution-details;what-actions;execution-details
+plan6;Q3;They should be able to answer questions about repurchasing. I would want to know if anything needs to be purchased or restocked prior to them to completing their tasks.;4.0;R_6ozSMtOx9GulNFI;future-actions;what-needs-to-be-done;future-actions
+vid14;Q1;When you cracked the eggs how were you certain that no shell particles got into the mixture?;4.0;R_9znWIqnU8C5fz2Z;potential-issues;how-to-ensure-correctness;how-did-you-know
+vid15;Q3;Can you prepare other meals besides chicken;4.0;R_2azSFxX9av0S6qK;what-abilities;extra-ability;what-abilities
+vid6;Q3;Would you get tired from cleaning?;5.0;R_8dFUdgT1HyOkQEi;mental-state;emotions;mental-state
+plan4;Q3;Do you need to be charged?;5.0;R_8kSJ29LlXGlnG5V;technical-details;battery-status;technical-details
+Vid3;Q3;Do you know if there was a tomato among things that I brought to you?;3.0;R_8FRMPrjyoUkfSVw;execution-details;what-objects;execution-details
+vid10;Q1;"How do you charge yourself?
+";3.0;R_82R1SHDqCNP8ugw;technical-details;how-does-it-work;technical-details
+Vid2;Q1;Why did you pick the orange? ;3.0;R_2CWsMmCoQDwWFFf;why;why-did-you;why
+vid6;Q2;If it can remember where it placed each item?;2.0;R_8pXG43dM8nxtLHE;execution-details;what-location;what-abilities
+plan4;Q1;How do you know that the milk was too old?;5.0;R_8mDwANzla3drNbt;how-did-you-know;object-properties;how-did-you-know
+vid6;Q2;did you lock the drawers afterwards?;2.0;R_2qtNqLP4b0FqZtn;execution-details;what-actions;execution-details
+vid11;Q3;Do you like pets?;4.0;R_8UcEuAGh9amtc9X;mental-state;opinion/likes;mental-state
+vid10;Q3;What do you do if you make a mistake?;5.0;R_7U4QrFI1d2HXKJJ;potential-issues;what-if;potential-issues
+vid10;Q1;How did you determine which dishes to load?;4.0;R_8mWQj9ClNFoHtDH;how-did-you-decide;goal-objects;how-did-you-decide
+plan3;Q1;"How long did it take you to complete those tasks?
+";3.0;R_82R1SHDqCNP8ugw;time;how-long;time
+vid6;Q3;Who programs the robot to put the items away? ;2.0;R_6MXMTHusOpX9MVX;technical-details;who-has-control;technical-details
+Vid4;Q3;where is the dish liquid kept? ;3.0;R_8QZ211b5Sc0X3sP;environment-state;object-properties;environment-state
+vid6;Q3;Do you have any suggestion on how to better organise my things?;2.0;R_2k5QSlY95Vtirfk;mental-state;ideas;future-actions
+Vid4;Q2;how do you check that there is no bacteria on the dishes?;4.0;R_21iQ9oF5M9bzjeg;potential-issues;how-to-ensure-correctness;technical-details
+vid14;Q3;How do you know when food is cooked properly?;5.0;R_2yU0uZHSMcvRSVz;how-did-you-know;goal-achieved;how-did-you-know
+Vid1;Q3;What do you do when you have finished your task?;3.0;R_8mDwANzla3drNbt;future-actions;what-next;future-actions
+Vid2;Q3;What's your perfect lunch box?;3.0;R_2ROLkn5dyU92blU;mental-state;opinion/likes;mental-state
+vid10;Q1;How did you know to put what utensil where;5.0;R_21tNgyCtIQQGfz9;how-did-you-know;goal-properties;how-did-you-know
+plan7;Q1;How does the security of the house feel at the moment?;3.0;R_2dHiIZUsDy4UbSk;environment-state;object-properties;environment-state
+vid8;Q1;Why does it seem so struggle with certain pieces of clothing?;2.0;R_3aS0gNZse7DMWkl;why;why-issues;technical-details
+vid11;Q2;What made you decide that your task was complete at that moment?;4.0;R_5ILu9YpqJ3LIN9Q;how-did-you-decide;goal-achieved;how-did-you-decide
+Vid1;Q1;Are you considering adding any other ingredients other that the ones on the table?;5.0;R_8gqm98kmJIu0OQz;future-actions;what-next;future-actions
+plan7;Q1;When will the groceries be delivered?;5.0;R_6MXMTHusOpX9MVX;time;at-what-time;time
+plan3;Q3;how do you prioritise which task to do first;5.0;R_1MfFWACDyTrNKlC;how-did-you-decide;task-priority;how-did-you-decide
+Vid3;Q2;Why did you remove the milk from the fridge?;4.0;R_2DpilvWULNDxHPS;why;why-did-you;why
+vid15;Q3;Where is the recipe from that you are following?;3.0;R_2Nn2gYl9AxN0IcY;execution-details;goal-origin;environment-state
+vid6;Q1;How did you decide  where each toy or product should go when you clean up ?;5.0;R_8E7f9CbtvlXxVTj;how-did-you-decide;goal-properties;how-did-you-decide
+vid11;Q3;What was the cat's general reaction - was he scared, aggressive.;5.0;R_20SFpuSySZWIAQc;environment-state;pets;environment-state
+vid11;Q3;Do we need to order more cat food soon?;4.0;R_2k5QSlY95Vtirfk;future-actions;what-needs-to-be-done;future-actions
+vid12;Q1;Do you wait a specific amount of time for the food to cook, or do you get a visual cue from the waffle iron when it is ready?;4.0;R_5kgIcvzbXW6bmit;how-did-you-know;goal-achieved;technical-details
+plan3;Q3;did you do the laundry;5.0;R_8SCCqBlJzAYFVXw;execution-details;what-actions;execution-details
+vid11;Q2;How many times a day do you feed the cat?;5.0;R_21zSRo6v5goC908;time;frequency;execution-details
+vid10;Q2;Are you able to tell me if were low on forks;3.0;R_6cXI0wosa2f4fds;environment-state;availability;what-abilities
+plan2;Q3;Did you have any trouble completing the required tasks?;4.0;R_2SH4lt3FWf5MtSp;self/task-assessment;problems;self/task-assessment
+Vid1;Q2;How do you know how much quantity of each item is needed?;5.0;R_8mDwANzla3drNbt;how-did-you-know;goal-properties;how-did-you-know
+Vid1;Q3;Can you prepare other foods? ;4.0;R_85vaJMxlDkswX0B;what-abilities;extra-ability;what-abilities
+Vid3;Q2;Was everything in the instructions ticked off?;3.0;R_8aY3lQuJu3gZP7e;self/task-assessment;success;execution-details
+vid6;Q1;What was the thought process behind tidying up?;4.0;R_8UcEuAGh9amtc9X;why;why-did-you;why
+vid8;Q1;What do we do when a piece of clothing cannot be folded?;5.0;R_2qebcIGVbURSLgY;potential-issues;what-if;potential-issues
+vid8;Q1;What do you consider a successfully folded piece of clothing?;5.0;R_7U4QrFI1d2HXKJJ;mental-state;check-understanding/beliefs;how-did-you-decide
+Vid2;Q2;If there was no fruit, and the table was empty, would you be able to find something else appropriate?;4.0;R_85vaJMxlDkswX0B;potential-issues;what-if;potential-issues
+plan3;Q3;Do you go into power saving mode when everything is done?;2.0;R_33lrAeoTfoVfG2l;technical-details;how-does-it-work;technical-details
+Vid4;Q4;Did it occur to you why the human could not wash her own dishes?;2.0;R_2G6YbBoAMRuaTeA;mental-state;check-understanding/beliefs;technical-details
+vid11;Q1;How do you measure the food ?;4.0;R_8mWQj9ClNFoHtDH;technical-details;how-does-it-work;execution-details
+vid10;Q2;Did you place the items in a way to make sure that they won't break? ;4.0;R_31hTKmGvBd5emgZ;self/task-assessment;did-you-ensure;execution-details
+Vid2;Q1;Why didnt you put other things into the lunch box?;3.0;R_8FRMPrjyoUkfSVw;why;why-not-alternative;why
+Vid5;Q2;When was the last time the sheets were changed?;4.0;R_5Nfat02pbnJYTue;time;at-what-time;time
+vid11;Q2;How comfortable are you feeding the cat?;5.0;R_8sYzdPnAohgGGab;mental-state;emotions;mental-state
+vid10;Q3;was the task easy or difficult;3.0;R_2rINLmOqhV74lu2;self/task-assessment;difficulty;self/task-assessment
+vid15;Q4;What would you do if a fire started?;5.0;R_3r7IeaPt0xJoEhL;potential-issues;what-if;potential-issues
+vid12;Q3;What other food can you make? ;4.0;R_51Sp5tDD1uAznJD;what-abilities;ability-list;what-abilities
+Vid2;Q2;Did you check if the bag was closed securely?;4.0;R_2BnicD802ALgCFk;self/task-assessment;did-you-ensure;execution-details
+Vid5;Q1;How did you know that these items belonged in the clothes hamper?;4.0;R_85vaJMxlDkswX0B;how-did-you-know;goal-properties;how-did-you-know
+plan2;Q2;Why did you accidentally break the plate while washing the dishes?;4.0;R_2yU0uZHSMcvRSVz;why;why-issues;why
+vid14;Q2;will there be shell in my omelette?;4.0;R_8QZ211b5Sc0X3sP;self/task-assessment;correctness;self/task-assessment
+plan3;Q2;Was the robot thorough when it came to emptying the recycling bin - as in, were the items placed in the correct bins.;5.0;R_20SFpuSySZWIAQc;self/task-assessment;correctness;self/task-assessment
+Vid5;Q3;Are you also able to vacuum the room?;2.0;R_2ROLkn5dyU92blU;what-abilities;extra-ability;future-actions
+vid8;Q1;How did you figure out how to fold clothes?;4.0;R_2azSFxX9av0S6qK;how-did-you-know;steps-to-take;how-did-you-know
+vid9;Q4;Did you consider any other ways to fold it? If so, why did you choose this method?;5.0;R_66kJXLd4WKKoyWt;how-did-you-decide;steps-to-take;how-did-you-decide
+Vid3;Q2;Is the fridge almost full?;4.0;R_2SH4lt3FWf5MtSp;environment-state;object-properties;environment-state
+vid14;Q1;How did you make sure that the food was safe to eat? ;5.0;R_31hTKmGvBd5emgZ;potential-issues;how-to-ensure-correctness;how-did-you-decide
+plan1;Q3;Any tasks the robot noticed and did not manage to do.;4.0;R_8pXG43dM8nxtLHE;future-actions;what-needs-to-be-done;self/task-assessment
+plan3;Q2;Where are the leftovers;2.0;R_6cXI0wosa2f4fds;environment-state;object-properties;environment-state
+plan3;Q1;Do we need anything from store for tomorrows breakfast;4.0;R_1rWVQZwAkDk1FiV;future-actions;what-needs-to-be-done;future-actions
+vid15;Q2;What other types of chicken can you make?;5.0;R_33lrAeoTfoVfG2l;what-abilities;ability-list;what-abilities
+vid12;Q2;How long did you bake the waffles?;4.0;R_8R7PLLxbwBhqydr;time;how-long;time
+Vid2;Q3;What is the weight limit you can lift?;4.0;R_7wjFa9ieGAj1960;what-abilities;ability-limits;what-abilities
+Vid1;Q3;What other salads can you make?;3.0;R_8i5voUbx1L2fJS0;what-abilities;ability-list;what-abilities
+plan1;Q3;Questions about what might need to be done, i.e., does the rug need to be vacuumed?;3.0;R_7EiHGkVejFBZsS6;future-actions;what-needs-to-be-done;future-actions
+vid8;Q2;Are there any clothes that caused you more effort then the others;1.0;R_8IMCMlhjGAKYOEP;self/task-assessment;difficulty;self/task-assessment
+vid9;Q2;Do you use the same algorithm for shirts?;3.0;R_8EbSLYogr3E95dv;technical-details;what-model;technical-details
+vid14;Q3;What did you do with the cracked eggs?;3.0;R_1D5h8cNvhEiLCRQ;execution-details;what-actions;execution-details
+plan2;Q1;Why did you break the plate? ;4.0;R_1P13fivuFWrJJxo;why;why-issues;why
+plan2;Q3;How do you handle accidents, like breaking something?;4.0;R_2yU0uZHSMcvRSVz;potential-issues;what-if;potential-issues

@@ -8,7 +8,13 @@ forthcoming
 
 # Reproduce Analysis
 
-We ran the analysis with Python 3.12.9. To install the necessary packages, run:
+We ran the analysis with Python 3.12.9. Optionally create a virtual environment for example with
+```
+conda create -n xai-questions python=3.12.9
+conda activate xai-questions
+```
+
+To then install the necessary packages, run:
 ```
 pip install -r requirements.txt
 ```
