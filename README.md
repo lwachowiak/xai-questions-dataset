@@ -1,4 +1,4 @@
-# What Questions Should Robots be Able to Answer? A Dataset of User Questions for Explainable Robotics
+# What Questions Should Robots Be Able to Answer? A Dataset of User Questions for Explainable Robotics
 The dataset and analysis code for the paper "What Questions Should Robots be Able to Answer? A Dataset of User Questions for Explainable Robotics" 
 
 # Citation
@@ -7,6 +7,7 @@ The dataset and analysis code for the paper "What Questions Should Robots be Abl
   title={What Questions Should Robots be Able to Answer? A Dataset of User Questions for Explainable Robotics},
   author={Wachowiak, Lennart and Coles, Andrew and Canal, Gerard and Celiktutan, Oya},
   journal={arXiv preprint},
+  url={https://arxiv.org/abs/2510.16435}, 
   year={2025}
 }
 ```
