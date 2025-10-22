@@ -1,5 +1,8 @@
 # What Questions Should Robots Be Able to Answer? A Dataset of User Questions for Explainable Robotics
-The dataset and analysis code for the paper "What Questions Should Robots be Able to Answer? A Dataset of User Questions for Explainable Robotics" 
+
+The dataset and analysis code for the paper **What Questions Should Robots Be Able to Answer? A Dataset of User Questions for Explainable Robotics**
+
+You can read the paper [here](https://arxiv.org/abs/2510.16435)! 
 
 # Citation
 ```
