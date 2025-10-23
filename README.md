@@ -7,7 +7,7 @@ You can read the paper [here](https://arxiv.org/abs/2510.16435)!
 # Citation
 ```
 @article{wachowiak2025questions,
-  title={What Questions Should Robots be Able to Answer? A Dataset of User Questions for Explainable Robotics},
+  title={What Questions Should Robots Be Able to Answer? A Dataset of User Questions for Explainable Robotics},
   author={Wachowiak, Lennart and Coles, Andrew and Canal, Gerard and Celiktutan, Oya},
   journal={arXiv preprint},
   url={https://arxiv.org/abs/2510.16435}, 
