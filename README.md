@@ -6,17 +6,18 @@ You can read the paper [here](https://arxiv.org/abs/2510.16435)!
 
 # Citation
 ```
-@article{wachowiak2025questions,
+@article{wachowiak2026questions,
   title={What Questions Should Robots Be Able to Answer? A Dataset of User Questions for Explainable Robotics},
   author={Wachowiak, Lennart and Coles, Andrew and Canal, Gerard and Celiktutan, Oya},
   journal={ACM Transactions on Human-Robot Interaction (THRI)},
-  year={2026}
+  year={2026},
+  doi={10.1145/3832777}
 }
 ```
 
 # Reproduce Analysis
 
-We ran the analysis with Python 3.12.9. Optionally create a virtual environment, for example, with
+We ran the analysis with Python 3.12.9. Optionally, create a virtual environment, for example, with
 ```
 conda create -n xai-questions python=3.12.9
 conda activate xai-questions
